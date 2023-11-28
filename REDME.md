@@ -42,3 +42,5 @@ El proyecto destacó la aplicación práctica de habilidades en Data Engineering
 
 El despliegue y la funcionalidad del proyecto pueden ser explorados en detalle en https://web-production-4c58.up.railway.app/docs# Adicionalmente, un video demostrativo detalla el funcionamiento y las funcionalidades implementadas.https://drive.google.com/file/d/10WV3PzYwo4EiwdWPXbu7kxoQ8i_6EiE5/view?usp=drive_link, https://drive.google.com/file/d/1r9kWQUZCiwZ14K2WGol2XX_6neawek3Q/view?usp=drive_link
 
+Autor: María Inés Hiriart
+
