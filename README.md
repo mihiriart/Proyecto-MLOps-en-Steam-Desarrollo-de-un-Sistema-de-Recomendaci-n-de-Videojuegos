@@ -1,0 +1,2 @@
+# Proyecto-MLOps-en-Steam-Desarrollo-de-un-Sistema-de-Recomendaci-n-de-Videojuegos
+Objetivo del Proyecto  El principal objetivo fue la creación de un Producto Mínimo Viable (MVP) que comprendiera una API y un modelo de Machine Learning capaz de llevar a cabo análisis de sentimientos en los comentarios de los usuarios, con el propósito de ofrecer un sistema de recomendación personalizado de videojuegos en la plataforma Steam.
